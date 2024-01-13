@@ -1,0 +1,10 @@
+hello my name is joshikaran
+
+example data --->
+place : chennai
+roll number: 289
+Name: joshikaran
+University : SRMIST
+branch : KTR
+company : LocoBuzz
+
